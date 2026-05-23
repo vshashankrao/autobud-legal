@@ -9,5 +9,6 @@ Legal documents for the AutoBud mobile apps.
 
 - [Privacy Policy](./privacy)
 - [Terms and Conditions](./terms)
+- [Account & Data Deletion](./account-deletion)
 
 Questions: [vshashankrao@gmail.com](mailto:vshashankrao@gmail.com)
